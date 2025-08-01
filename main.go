@@ -10,10 +10,10 @@ import (
 Scope
 
 features:
-	users upload markdown files
-	check the grammar
-	save the note
-	render it in HTML Use Package gomarkdown
+	Users can upload markdown files
+	Check the grammar
+	Save the note
+	Render it in HTML <Use Package gomarkdown>
 */
 
 func main() {
